@@ -1,2 +1,2 @@
-# Web-project-To-do
-ToDo web project
+# To Do project
+To Do web project
